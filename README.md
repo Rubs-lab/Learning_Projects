@@ -10,15 +10,15 @@ It is an ongoing project, where the current files will serve as a frame for the 
 
 ## Features:
 
-Mean, Variance, Standard Deviation, Covariance, Correlation Co-eficient, Regression Slope, Regression Intercept, and Predicted Y Values for Multiple User-provided X Values
+Mean, Variance, Standard Deviation, Covariance, Correlation Coefficient, Regression Slope, Regression Intercept, and Predicted Y Values for Multiple User-provided X Values
 
 The program also includes input validation to prevent the insertion of invalid datasets and prediction sizes.
 
-## Possible Improvments
+## Possible Improvements
 
-Adding more regression models, Improving input validation, Adding data visualisation, Allowing data to e imported from files, Improving the user interface
+Adding more regression models, Improving input validation, Adding data visualisation, Allowing data to be imported from files, Improving the user interface
 
-##How it works:
+## How it works:
 
 The program takes a set of paired x and y observations, and then calculates the statistical values needed to construct a linear regression model for the data set provided. The linear regression model consists of y= mx + b Where: m = Slope of the regression line b = intercept x = input value y = predicted value
 
