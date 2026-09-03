@@ -23,8 +23,3 @@ Adding more regression models, Improving input validation, Adding data visualisa
 The program takes a set of paired x and y observations, and then calculates the statistical values needed to construct a linear regression model for the data set provided. The linear regression model consists of y= mx + b Where: m = Slope of the regression line b = intercept x = input value y = predicted value
 
 Once the Regression model has been calculated, the user will be able to enter multiple x values to calculate predictions of the y values.
-
-## About
-
-A practice file for the program C, as I have been enjoying C a lot lately.
-
